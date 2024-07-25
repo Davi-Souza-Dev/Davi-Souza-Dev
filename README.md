@@ -6,7 +6,7 @@
 </div>
 <div>
   <a href="https://www.instagram.com/davi.dev97/"><img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/davi-souza-a90a78244/"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="www.linkedin.com/in/davi-souza-5055a9317"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Davi-Souza-Dev/Davi-Souza-Dev/output/github-contribution-grid-snake-dark.svg">
