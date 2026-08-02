@@ -36,9 +36,8 @@
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue-000000?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/laravel-000000?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
@@ -49,6 +48,8 @@
 <div align = "center"> 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Davi-Souza-Dev&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 </div>
+
+<h2 align="center"><em>Snake</em> </h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Davi-Souza-Dev/Davi-Souza-Dev/output/github-contribution-grid-snake-dark.svg">
